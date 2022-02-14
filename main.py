@@ -1,6 +1,5 @@
 import random
 
-
 my_list = ["strawberry", "blueberry", "raspberry", "blackberry", "cranberry"]
 print(random.choice(my_list))
 
