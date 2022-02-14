@@ -5,21 +5,19 @@
 
 ***
 
-_Replace anything surrounded by the `< >` symbols._
-
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+This program calculates the cost per class by taking the tuition as well as the number of classes per week.  It also prints the type of variable the data is.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining:  5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ I think I completed all of it.
 
 ## REFERENCES:
- < List any outside resources used >
+ No outside sources used
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ The number of cost per class is a bit weird but the calculations should be correct.
